@@ -7,14 +7,14 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="package_name",
+    name="HelloWorld_aline",
     version="0.0.1",
-    author="my_name",
-    author_email="my_email",
-    description="My short description",
+    author="Aline_Gorisch",
+    author_email="aline.gorisch@outlook.com",
+    description="Exercício criação de pacotes",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="my_github_repository_project_link"
+    url="https://github.com/AlineGorischF/Data-Science-Projects/tree/main/desafios_projeto_DIO/boot_geracao_tech_unimed_DS/package-helloworld-aline"
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
