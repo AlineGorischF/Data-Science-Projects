@@ -7,14 +7,6 @@ Nesse segundo Desafio de Projeto a intenção é praticar os conhecimentos bási
 ## Descrição do Desafio:punch:
 Neste Labs, vamos investigar os dados da disseminação do COVID-19 no Brasil desde o início da pandemia em fevereiro de 2020. Iremos estudar os padrões de disseminação da doença, investigar os números de infectados, de recuperados e de óbitos, para construir modelos com Python e Machine Learning para prever os números nos próximos dias e o ponto de virada da curva de infecção baseado em alguns cenários.
 
-Tecnologias utilizadas:
-
-<img align="left" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="Pandas" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-<img align="left" alt="Jupyter" width="35px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-<img align="left" alt="GitHub" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-
-
 ## Casos confirmados
 ![image](https://user-images.githubusercontent.com/112986146/201540635-a827ac81-c7e9-4362-9998-477d01567c8d.png)
 
@@ -31,3 +23,10 @@ O crescimento médio do COVID no Brasil no período avaliado foi de 16.27%.
 ## Predizendo o número de casos confirmados com um AUTO-ARIMA
 ![image](https://user-images.githubusercontent.com/112986146/201540722-bbdcbe96-49ed-4557-b2a7-493f4b5a4caf.png)
 
+Tecnologias utilizadas:
+
+<img align="left" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="Pandas" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+<img align="left" alt="Numpy" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+<img align="left" alt="Jupyter" width="35px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+<img align="left" alt="GitHub" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
