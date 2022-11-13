@@ -1,0 +1,46 @@
+# ANÁLISE EXPLORATÓRIA DE DADOS COM PANDAS
+
+A presente análise foi resultado do segundo desafio de projeto do **Bootcamp Geração Tech Unimed-BH | Ciência de dados**.
+
+## Sobre os resultado encontrados
+
+#### Quais os produtos mais vendidos?
+
+Como demonstrado no gráfico abaixo os produtos mais vendidos foram: Headphone Adapter for Contoso Phone E130 Silver  e Headphone Adapter for Contoso Phone E130 White ambos com mais de 25000 unidades vendidas.
+
+![image-20221113095308650](C:\Users\Aline\AppData\Roaming\Typora\typora-user-images\image-20221113095308650.png)
+
+#### Qual é o lucro por ano?
+
+O lucro referente ao ano de 2008 foi maior que 1.750.000,00 e já no ano de 2009 teve uma baixa no lucro resultando em 1.500.000,00
+
+![image-20221113095317909](C:\Users\Aline\AppData\Roaming\Typora\typora-user-images\image-20221113095317909.png)
+
+#### Sabendo que o lucro em 2009 foi inferior ao de 2008. Quais os meses que tiveram menor lucro?
+
+Os meses que tiveram menores lucros foram: Abril/2009 com menos de 75.000 vendas e Agosto/2009 com menos de 50.000 vendas.
+
+![image-20221113100255730](C:\Users\Aline\AppData\Roaming\Typora\typora-user-images\image-20221113100255730.png)
+
+#### Quais as empresas que tiveram maior lucro em 2009?
+
+As empresas que mais tiveram lucro em 2009 foram: Fabrikam, Adventure works e Contoso.
+
+![image-20221113101056520](C:\Users\Aline\AppData\Roaming\Typora\typora-user-images\image-20221113101056520.png)
+
+#### Quais as classes que tiveram maior lucros em 2009?
+
+As classes que mais tiveram lucro em 2009 foram: Regular e Economy
+
+![image-20221113101547308](C:\Users\Aline\AppData\Roaming\Typora\typora-user-images\image-20221113101547308.png)
+
+#### Qual o tempo de envio das vendas em 2009?
+
+O tempo de envio mínimo em 2009 foi de 4 dias e o máximo de 20 dias e o tempo médio de envio foi de 8,5 dias.
+
+![image-20221113102004209](C:\Users\Aline\AppData\Roaming\Typora\typora-user-images\image-20221113102004209.png)
+
+#### Qual vendedor foi o responsável pelo maior tempo de envio?
+
+Como demonstrado no gráfico acima o maior tempo de envio foi de 20 dias realizado pela empresa Adventure Works e o produto comprado foi um Laptop15.4WM1548 Red no valor de 4.548.
+
