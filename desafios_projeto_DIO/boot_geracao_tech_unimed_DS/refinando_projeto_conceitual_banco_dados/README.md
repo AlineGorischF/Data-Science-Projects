@@ -2,7 +2,7 @@
 ## Trilha de estudos de Data Science e Machine Learning :woman_technologist:
 ### Repositório criado para o quinto desafio de projeto do [Bootcamp Geração Tech Unimed-BH | Ciência de Dados](https://web.dio.me/track/geracao-tech-unimed-bh-ciencia-de-dados/) :bar_chart:
 
-Nesse quinto Desafio de Projeto a intenção Refinar um Projeto Conceitual de Dados, para isso foi utilizado a ferramenta MySql Workbench
+Nesse quinto Desafio de Projeto a intenção Refinar um Projeto Conceitual de Dados para um E-COMMERCE, para isso foi utilizado a ferramenta MySql Workbench
 
 
 ## Descrição do Desafio :punch:
