@@ -26,3 +26,7 @@ Após a criação do esquema lógico, realize a criação do Script SQL para  cr
 - As cláusulas podem estar presentes em mais de uma query
 
 O projeto deverá ser adicionado a um repositório do Github para futura  avaliação do desafio de projeto. Adicione ao Readme a descrição do  projeto lógico para fornecer o contexto sobre seu esquema lógico  apresentado.
+
+Tecnologias utilizadas:
+
+<img align="left" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
