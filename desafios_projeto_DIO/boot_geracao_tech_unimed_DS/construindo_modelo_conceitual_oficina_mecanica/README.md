@@ -29,4 +29,4 @@ Cria o esquema conceitual para o contexto de oficina com base na narrativa forne
 
 Tecnologias utilizadas:
 
-<img align="left" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="mysql" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
