@@ -1,4 +1,6 @@
-# dio-live-dynamodb
+## Trilha de estudos de Data Science e Machine Learning :woman_technologist:
+### Repositório criado para o sexto desafio de projeto do [Bootcamp Geração Tech Unimed-BH | Ciência de Dados](https://web.dio.me/track/geracao-tech-unimed-bh-ciencia-de-dados/) :bar_chart:
+## dio-live-dynamodb
 Repositório para o live coding do dia 30/09/2021 sobre o Amazon DynamoDB
 
 ### Serviço utilizado
