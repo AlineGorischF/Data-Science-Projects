@@ -8,37 +8,37 @@ A presente análise foi resultado do segundo desafio de projeto do **Bootcamp Ge
 
 Como demonstrado no gráfico abaixo os produtos mais vendidos foram: Headphone Adapter for Contoso Phone E130 Silver  e Headphone Adapter for Contoso Phone E130 White ambos com mais de 25000 unidades vendidas.
 
-![image-20221113095308650](C:\Users\Aline\AppData\Roaming\Typora\typora-user-images\image-20221113095308650.png)
+![image](https://user-images.githubusercontent.com/112986146/201524192-2199947d-1cf2-4823-8a9e-88c3047040d4.png)
 
 #### Qual é o lucro por ano?
 
 O lucro referente ao ano de 2008 foi maior que 1.750.000,00 e já no ano de 2009 teve uma baixa no lucro resultando em 1.500.000,00
 
-![image-20221113095317909](C:\Users\Aline\AppData\Roaming\Typora\typora-user-images\image-20221113095317909.png)
+![image](https://user-images.githubusercontent.com/112986146/201524208-5f70fc57-c7a5-46f5-8eef-4ac18e1dd618.png)
 
 #### Sabendo que o lucro em 2009 foi inferior ao de 2008. Quais os meses que tiveram menor lucro?
 
 Os meses que tiveram menores lucros foram: Abril/2009 com menos de 75.000 vendas e Agosto/2009 com menos de 50.000 vendas.
 
-![image-20221113100255730](C:\Users\Aline\AppData\Roaming\Typora\typora-user-images\image-20221113100255730.png)
+![image](https://user-images.githubusercontent.com/112986146/201524229-1826908d-922f-4e09-b0c2-39132404edbd.png)
 
 #### Quais as empresas que tiveram maior lucro em 2009?
 
 As empresas que mais tiveram lucro em 2009 foram: Fabrikam, Adventure works e Contoso.
 
-![image-20221113101056520](C:\Users\Aline\AppData\Roaming\Typora\typora-user-images\image-20221113101056520.png)
+![image](https://user-images.githubusercontent.com/112986146/201524249-1ff5a7c4-a7cb-4997-87cb-d633f52493a8.png)
 
 #### Quais as classes que tiveram maior lucros em 2009?
 
 As classes que mais tiveram lucro em 2009 foram: Regular e Economy
 
-![image-20221113101547308](C:\Users\Aline\AppData\Roaming\Typora\typora-user-images\image-20221113101547308.png)
+![image](https://user-images.githubusercontent.com/112986146/201524260-6eb8f732-b6e8-4199-94ee-520939089ca5.png)
 
 #### Qual o tempo de envio das vendas em 2009?
 
 O tempo de envio mínimo em 2009 foi de 4 dias e o máximo de 20 dias e o tempo médio de envio foi de 8,5 dias.
 
-![image-20221113102004209](C:\Users\Aline\AppData\Roaming\Typora\typora-user-images\image-20221113102004209.png)
+![image](https://user-images.githubusercontent.com/112986146/201524273-fc36302d-59dc-4be6-a84a-c7d8052e8e8c.png)
 
 #### Qual vendedor foi o responsável pelo maior tempo de envio?
 
