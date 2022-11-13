@@ -20,7 +20,7 @@ file1_name.my_function()
 ```
 
 ## Author
-Aline_Gorisch
+Aline Gorisch
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
