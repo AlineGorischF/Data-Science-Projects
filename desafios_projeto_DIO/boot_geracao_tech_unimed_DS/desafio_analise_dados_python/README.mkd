@@ -1,0 +1,21 @@
+## Trilha de estudos de Data Science e Machine Learning :woman_technologist:
+### Repositório criado para o segundo desafio de projeto do [Bootcamp Geração Tech Unimed-BH | Ciência de Dados](https://web.dio.me/track/geracao-tech-unimed-bh-ciencia-de-dados/) :bar_chart:
+
+Nesse segundo Desafio de Projeto a intenção é praticar os conhecimentos básicos adquiridos no Curso de Análise Exploratória de Dados com 
+Python e Pandas. 
+
+O desafio foi desenvolvido com a base de dados fornecida pela Microsoft a [AdventureWorks](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
+
+
+## Descrição do Desafio :punch:
+
+Neste Labs será apresentada a biblioteca Pandas, uma biblioteca Python de código aberto para análise de dados. Ela dá ao Python a 
+capacidade de trabalhar com dados do tipo planilha, permitindo carregar, manipular e combinar dados rapidamente, entre outras funções.
+
+Técnologias utilizadas:
+
+<img align="left" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="Pandas" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+<img align="left" alt="Jupyter" width="35px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+<img align="left" alt="GitHub" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+
